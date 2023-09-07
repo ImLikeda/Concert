@@ -9,12 +9,12 @@
     <link rel="stylesheet" type="text/css" href="static/css/pamplet.css" />
     <script type="text/javascript" src="static/js/songs.js"></script>
     <script type="text/javascript" src="static/js/common.js"></script>
+    <script type="text/javascript" src="static/js/teamtitle.js"></script>
   </head>
   <body>
     <div class="wrap">
       <div class="main">
-        <div class="top">OMNI A</div>
-        <div class="sl">SET LIST</div>
+        <div class="teamtitle" id="teamtt"></div>
         <div class="ex">-자세히보려면 각 곡을 터치하세요-</div>
         <ul class="songlist" id="songListDiv"></ul>
       </div>
@@ -22,6 +22,10 @@
   </body>
   <script>
     var teamName = getQueryParam("team");
+
+    var ttlink = `<img src="https://drive.google.com/uc?id=${teamtitle[teamName]}">`;
+    var titlebox = document.getElementById("teamtt");
+    titlebox.innerHTML = ttlink;
 
     var lenSongList = teams[teamName].length;
     var songList = "";

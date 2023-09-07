@@ -531,7 +531,7 @@ var songInfo = {
   hibully: {
     name: "Hi Bully",
     singer: "Touched",
-    image: "static/img/touched.jpg",
+    image: "static/img/touched2.jpg",
     info: "@@@@@@개쩌는 곡",
     members: [
       {

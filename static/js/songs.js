@@ -27,7 +27,7 @@ var teams = {
       name: "HI BULLY",
       singer: "TOUCHED",
       info: "개쩌는 곡",
-      image: "static/img/touched.jpg",
+      image: "static/img/touched2.jpg",
       nameId: "hibully",
     },
     {
@@ -129,13 +129,6 @@ var teams = {
     },
   ],
   collaboB: [
-    {
-      name: "Tell Me",
-      singer: "Wonder Girls",
-      info: "개쩌는 곡",
-      image: "static/img/tellme.jpg",
-      nameId: "tellme",
-    },
     {
       name: "으르렁",
       singer: "EXO",

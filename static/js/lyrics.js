@@ -124,7 +124,7 @@ var lyrics = {
         name: "Hi Bully",
         singer: "유다빈 밴드",
         info: "아주조아",
-        image: "static/img/touched.jpg",
+        image: "static/img/touched2.jpg",
         lyric: `안녕 날 괴롭히던 너
         좋아 보여 웃는 네 모습
         여전히 나를 깔보며

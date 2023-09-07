@@ -20,17 +20,25 @@
     font-size: 62.5%;
 }
 
-.wrap {
+body {
+    display: flex;
+    justify-content: center;
     background-color: black;
+}
+
+.wrap {
+    height: 100%;
+    width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .main {
-    display: block;
-    height: 100vh;
-    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .oxc {
@@ -48,6 +56,7 @@
     display: flex;
     flex-direction: column;
     align-content: space-between;
+    padding-top: 2rem;
 }
 
 .main > .middle > .when {
@@ -111,23 +120,24 @@
     display: block;
     margin: auto;
     height: 7rem;
-    width: 80%;
+    width: 30rem;
     justify-content: center;
     padding-top: 1.8rem;
     background-image: url(../img/png/ttbox.png);
-    background-size: 100% 100%;
+    background-size: 90% 90%;
     background-repeat: no-repeat;
+    background-position: center;
 }
 
 .main > .TimeLine > .TL > div {
-    padding: 0.5rem;
+    padding: 1rem;
     text-align: left;
-    padding-left: 4rem;
+    padding-left: 5rem;
 }
 
 .main > .TimeLine > .TL:nth-child(even) > div {
     text-align: right;
-    padding-right: 4rem;
+    padding-right: 5rem;
 }
 
 .main > .TimeLine > div > .time, .team {
@@ -162,6 +172,17 @@
     font-size: 2.5rem;
 }
 
+.teamtitle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.teamtitle > img {
+    width: 80%;
+    
+}
+
 .ex {
     display: block;
     text-align: center;
@@ -182,6 +203,7 @@
 .song {
     display: flex;
     border: 0.2rem solid white;
+    width: 80%;
     margin: 2rem;
     margin-bottom: 1rem;
 }
@@ -221,7 +243,8 @@
     margin-bottom: 1.5rem;
     justify-content: center;
     align-items: center;
-    height: 3rem;
+    height: 5rem;
+    width: 15rem;
 }
 
 .members {
@@ -232,10 +255,11 @@
 
 .members > .member {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     border: 0.2rem solid white;
     align-items: center;
     margin: 0.75rem;
+    width: 30rem;
 }
 
 .members > .member > .th {
@@ -264,6 +288,7 @@
 .LyricBox {
     display: flex;
     margin: 2rem;
+    width: 80%;
     border: 0.2rem solid white;
     height: 50vh;
 }
@@ -287,6 +312,13 @@
     font-size: medium;
 }
 
+.top > .warnimg {
+    width: 80%;
+}
+
+.infolist > li > div {
+    font-size: 4rem;
+}
 
 .infolist > .info > .warning > .warnlist > li {
     display: flex;
@@ -369,3 +401,18 @@
 }
 
 /* ---- 여기까지 booth-1 css ---- */
+
+
+@media (min-width: 524px) {
+    body {
+        display: flex;
+        width: 100%;
+    }
+
+    .wrap {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 70%;
+    }
+}
