@@ -14,23 +14,24 @@
   <body>
     <div class="wrap">
       <div class="main">
-        <div class="top" id="songtitle">곡 제목</div>
+        <div class="top" id="songtitle"></div>
         <div class="song" id="song-info"></div>
-        <div class="tolyrics" onclick="MoveLyricPage(songName)">가사 보기</div>
+        <div class="tolyrics" id="tolyricbox" onclick="MoveLyricPage(songName)">가사 보기</div>
         <ul class="members" id="member-section"></ul>
       </div>
     </div>
   </body>
   <script>
     var songName = getQueryParam("song");
-    var song = songInfo[songName];
+
+    var song = songInfo.songName;
     var songBox = document.getElementById("song-info");
     songBox.innerHTML = `
-        <img src="${song.image}"width="4rem" height="4rem"></div>
+        <img src="${songName.image}"width="4rem" height="4rem"></div>
           <div class="text">
-            <div class="singer">${song.singer}</div>
-            <div class="songname">${song.name}</div>
-            <div class="songex">${song.info}</div>
+            <div class="singer">${songName.singer}</div>
+            <div class="songname">${songName.name}</div>
+            <div class="songex">${songName.info}</div>
         </div>`;
 
     var members = song.members;
@@ -41,7 +42,7 @@
         <div class="th">${members[i].th}</div>
         <div class="name">${members[i].name}</div>
         <div class="position">${members[i].position}</div>
-        <div class="image"><img src="static/img/png/insta.png" onclick= "window.location.href='https://www.instagram.com/${members[i].insta}/'"/></div>
+        <div class="image"><img src="https://drive.google.com/uc?export=view&id=1am9n36eGGNAZtvBuUUc-cpnEjDYysJT_" onclick= "window.location.href='https://www.instagram.com/${members[i].insta}/'"/></div>
       </div>
           `;
     }
@@ -51,6 +52,17 @@
 
     function MoveLyricPage(lyrics) {
       window.location.href = "Lyrics.html?lyrics=" + lyrics;
+    }
+
+    var lyricbox = document.getElementById("tolyricbox");
+    var settitle = document.getElementById("songtitle");
+
+    if (song.name === "Far Away" || song.name === "어느샌가 우리는 매일을 살아왔네" || song.name === "Tik Tak Tok" || song.name === "Alive" || song.name === "hibully" || song.name === "anyway") {
+      lyricbox.style.display = 'flex';
+      settitle.innerHTML = `${song.name}`
+    }
+    else {
+      lyricbox.style.display = "none";
     }
   </script>
 </html>

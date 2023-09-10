@@ -36,59 +36,6 @@ var lyrics = {
             away, away, away, away
             `
     },
-    realize: {
-        name: "Realize",
-        singer: "Silicagel",
-        info: "아주조아",
-        image: "static/img/realize.jpg",
-        lyric: `
-            지금 널 잊어줄게
-            혼자 무섭지만 이런 것쯤 견뎌볼게
-
-            나지막이 걸을 때
-            들킬 듯 말 듯 지켜보고 선 사람들
-
-            웃음을 참게 돼
-            눈물이 멎게 돼
-            부끄러운 모습들만
-
-            이렇게 이렇게
-
-            Please
-            Release
-            다시 돌아갈 순 없을 거라고 난 생각해
-
-            So Please
-            Realize
-            이제 더는
-            앞서갈 필요도 없지
-
-            눈물을 참게 돼
-            기억을 잃게 돼
-            부끄러운 모습들만
-            이렇게 이렇게
-
-            지금 널 잊어줄게
-            혼자 무섭지만 이런 것쯤 견뎌볼게
-
-            나지막이 걸을 때
-            들킬 듯 말 듯 지켜보고 선 사람들
-
-            고백을 하게 돼
-            리듬을 잃게 돼
-            부끄러운 모습들만
-            이렇게 이렇게
-
-            Please
-            Release
-            다시 돌아갈 순 없을 거라고 난 생각해
-
-            So Please
-            Realize
-            이제 더는
-            앞서갈 필요도 없지
-            `
-    },
     everyday: {
         name: "어느샌가 우리는 매일을 살아왔네",
         singer: "The Polse",
@@ -119,6 +66,39 @@ var lyrics = {
             그 어린 나의 순수함은
             세월에 갔지만 시간에 물든다
             ` 
+    },
+    tiktaktok: {
+        name: "Tik Tak Tok",
+        singer: "Silicagel",
+        info: "아주조아",
+        image: "static/img/tiktaktok.jpg",
+        lyric: `
+        입력된 명작에서
+        압축된 영화까지
+        조직된 hormone assets
+        출력된 유서까지
+        
+        꿈을 꾸기 위해서
+        매콤한 환각까지
+        to the depth of consciousness
+        게으른 마음 까지
+        
+        Tik Tak Tok 빠른 시간
+        keep that node 다음 기약
+        drop wet soul 슬픈 생각 um um…
+        big bang force 참 우울함
+        
+        무리 없이 잠에 드는 피앙세
+        영원을 손금처럼 쥐고
+        빗살 같은 날짜들
+        멍청한 우리 결속
+        흥분되는 D-1
+        
+        Tik Tak Tok 빠른 시간
+        keep that node 다음 기약
+        drop wet soul 슬픈 생각 um um…
+        big bang force 참 우울함
+            `
     },
     hibully: {
         name: "Hi Bully",

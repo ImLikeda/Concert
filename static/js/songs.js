@@ -8,11 +8,11 @@ var teams = {
       nameId: "faraway",
     },
     {
-      name: "Realize",
+      name: "Tik Tak Tok",
       singer: "SilCagel",
       info: "개쩌는 곡ddddd",
-      image: "static/img/realize.jpg",
-      nameId: "realize",
+      image: "static/img/tiktaktok.jpg",
+      nameId: "tiktaktok",
     },
     {
       name: "어느샌가 우리는 <br> 매일을 살아왔네",

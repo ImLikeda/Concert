@@ -6,6 +6,7 @@ var songInfo = {
     singer: "Lacuna",
     image: "https://drive.google.com/uc?export=view&amp;id=1XQdKS2abqHHSo9De_0nzZgQUAz1MFlx2",
     info: "개쩌는 곡 @@@@@@",
+    nameId: "faraway",
     members: [
       {
         th: "36th",
@@ -44,6 +45,7 @@ var songInfo = {
     singer: "The Polse",
     image: "static/img/everyday.jpg",
     info: "개쩌는 곡 @@@@@@123123",
+    nameId: "everyday",
     members: [
       {
         th: "36th",
@@ -77,11 +79,12 @@ var songInfo = {
       },
     ],
   },
-  tictaktok: {
+  tiktaktok: {
     name: "Tik Tak Tok",
     singer: "silicagel",
-    image: "static/img/tictaktok.jpg",
+    image: "static/img/tiktaktok.jpg",
     info: "개쩌는 곡 @@@@@@",
+    nameId: "tiktaktok",
     members: [
       {
         th: "36th",
@@ -122,6 +125,7 @@ var songInfo = {
     singer: "Jay Park",
     image: "static/img/mommae.jpg",
     info: "박재범의 몸매라는 곡은 유명하지만, 기존의 느낌은 덜어내고 리믹스된 버전으로 펑키함을 더한 몸매를 준비해보았습니다! 많이 기대해 주세요 :)",
+    nameId: "mommae",
     members: [
       {
         th: "",
@@ -161,6 +165,7 @@ var songInfo = {
     singer: "Britney Jean Spears",
     image: "static/img/toxic.jpg",
     info: "@@@@@@개쩌는 곡",
+    nameId: "toxic",
     members: [
       {
         th: "",
@@ -206,6 +211,7 @@ var songInfo = {
     singer: "Treasure",
     image: "static/img/move.jpg",
     info: "@@@@@@개쩌는 곡",
+    nameId: "move",
     members: [
       {
         th: "",
@@ -245,6 +251,7 @@ var songInfo = {
     singer: "2NE1",
     image: "static/img/2ne1.jpg",
     info: "@@@@@@개쩌는 곡",
+    nameId: "twentyone",
     members: [
 {
         th: "",
@@ -276,7 +283,7 @@ var songInfo = {
         position: "",
         insta: "and_3.9",
       },
-    ],
+    ],  
   },
 
   // 옴X코 A - 3번
@@ -285,6 +292,7 @@ var songInfo = {
     singer:"Black Pink",
     image: "static/img/lovesick.jpg",
     info: "개쩌는곡 123456",
+    nameId: "lovesick",
     members: [
       {
         th: "",
@@ -348,6 +356,7 @@ var songInfo = {
     singer:"(G)-Idle",
     image: "static/img/tomboy.jpg",
     info: "개쩌는곡 12345",
+    nameId: "tomboy",
     members: [
       {
         th: "",
@@ -417,6 +426,7 @@ var songInfo = {
     singer:"LE SSERAFIM",
     image: "static/img/celestial.jpg",
     info: "개쩌는곡 12345678",
+    nameId: "celestial",
     members: [
       {
         th: "",
@@ -488,6 +498,7 @@ var songInfo = {
     singer: "Touched",
     image: "static/img/touched.jpg",
     info: "@@@@@@개쩌는 곡123",
+    nameId: "alive",
     members: [
       {
         th: "36th",
@@ -533,6 +544,7 @@ var songInfo = {
     singer: "Touched",
     image: "static/img/touched2.jpg",
     info: "@@@@@@개쩌는 곡",
+    nameId: "hibully",
     members: [
       {
         th: "36th",
@@ -577,6 +589,7 @@ var songInfo = {
     singer: "유다빈 밴드",
     image: "static/img/touched.jpg",
     info: "@@@@@@개쩌는 곡321",
+    nameId: "anyway",
     members: [
       {
         th: "36th",
@@ -623,6 +636,7 @@ var songInfo = {
     singer: " Bando Jonez / Chris Brown",
     image: "static/img/privacy.jpg",
     info: "@@@@@@개쩌는 곡",
+    nameId: "privacy",
     members: [
       {
         th: "",
@@ -655,6 +669,7 @@ var songInfo = {
     singer: "MONSTA X",
     image: "static/img/killa.jpg",
     info: "@@@@@@개쩌는 곡",
+    nameId: "killa",
     members: [
       {
         th: "",
@@ -687,6 +702,7 @@ var songInfo = {
     singer: "Iggy Azalea",
     image: "static/img/kream.jpg",
     info: "@@@@@@개쩌는 곡",
+    nameId: "kream",
     members: [
       {
         th: "",
@@ -731,6 +747,7 @@ var songInfo = {
     singer: "HyunA",
     image: "static/img/hyuna.jpg",
     info: "@@@@@@개쩌는 곡",
+    nameId: "hyuna",
     members: [
       {
         th: "",
@@ -777,6 +794,7 @@ var songInfo = {
     singer: "EXO",
     image: "static/img/beast.jpg",
     info: "@@@@@@개쩌는 곡777",
+    nameId: "beast",
     members: [
       {
         th: "",
@@ -821,6 +839,7 @@ var songInfo = {
     singer: "Big Bang",
     image: "static/img/bang.jpg",
     info: "@@@@@@개쩌는 곡357",
+    nameId: "bang",
     members: [
       {
         th: "",

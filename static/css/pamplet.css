@@ -49,7 +49,7 @@ body {
 }
 
 .oxc > img {
-    max-width: 80%;
+    max-width: 70%;
 }
 
 .main > .middle {
@@ -204,14 +204,14 @@ body {
 .song {
     display: flex;
     border: 0.2rem solid white;
-    width: 80%;
+    width: 85%;
     margin: 2rem;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
 }
-.song:nth-child(3) {
+/* .song:nth-child(3) {
     margin: 2rem;
     margin-bottom: 0;
-}
+} */
 
 .song > img {
     height: 100%;
@@ -308,6 +308,18 @@ body {
 
 /* ---- 여기까지 lyrics css ---- */
 
+.infotop {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem;
+    padding-bottom: 0;
+    
+}
+
+.infotop > img {
+    width: 95%;
+}
 
 .warnlist > li {
     font-size: medium;
@@ -318,7 +330,8 @@ body {
 }
 
 .infolist > li > div {
-    font-size: 4rem;
+    font-size: 2.2rem;
+    margin-bottom: 1.6rem;
 }
 
 .infolist > .info > .warning > .warnlist > li {
@@ -332,7 +345,7 @@ body {
 
 .infolist > .info {
     font-size: large;
-    padding: 1.5rem;
+    /* padding: 1.5rem; */
 }
 
 /* ---- 여기까지 information css ----*/
@@ -415,5 +428,6 @@ body {
         justify-content: center;
         align-items: center;
         width: 70%;
+        height: 100vh;
     }
 }

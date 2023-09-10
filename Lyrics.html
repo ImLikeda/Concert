@@ -20,7 +20,6 @@
     var songName = getQueryParam("lyrics");
     var songlr = lyrics[songName];
     var songlrbox = document.getElementById("lyric-main");
-    console.log(songlr);
     songlrbox.innerHTML = `
         <div class="top">${songlr.name}</div>
             <div class="song">
@@ -37,7 +36,6 @@
                 </div>
             </div>
     `
-    console.log(songName)
     if(songName === "everyday"){
         document.getElementsByClassName("top").style.paddingBottom = "1rem";
     }
