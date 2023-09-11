@@ -43,7 +43,7 @@ var songInfo = {
   everyday: {
     name: "어느샌가 우리는 매일을 살아왔네",
     singer: "The Polse",
-    image: "static/img/everyday.jpg",
+    image: "https://drive.google.com/uc?export=view&id=1ou6wDzaeXONWXhaLGHNuN3eilpa4S89P",
     info: "개쩌는 곡 @@@@@@123123",
     nameId: "everyday",
     members: [
@@ -82,7 +82,7 @@ var songInfo = {
   tiktaktok: {
     name: "Tik Tak Tok",
     singer: "silicagel",
-    image: "static/img/tiktaktok.jpg",
+    image: "https://drive.google.com/uc?export=view&id=10-JEpDJ1YvvI1aABqaK4NcL0isr7C9ef",
     info: "개쩌는 곡 @@@@@@",
     nameId: "tiktaktok",
     members: [
@@ -123,7 +123,7 @@ var songInfo = {
   mommae: {
     name: "몸매 remix",
     singer: "Jay Park",
-    image: "static/img/mommae.jpg",
+    image: "https://drive.google.com/uc?export=view&id=1pvtur_pvyFRBxJ93sNksUawliUGLR5ob",
     info: "박재범의 몸매라는 곡은 유명하지만, 기존의 느낌은 덜어내고 리믹스된 버전으로 펑키함을 더한 몸매를 준비해보았습니다! 많이 기대해 주세요 :)",
     nameId: "mommae",
     members: [
@@ -163,8 +163,8 @@ var songInfo = {
   toxic: {
     name: "Toxic",
     singer: "Britney Jean Spears",
-    image: "static/img/toxic.jpg",
-    info: "@@@@@@개쩌는 곡",
+    image: "https://drive.google.com/uc?export=view&id=1LMPyyRoRG2F2wVtDRyD8k_9uVql1x97W",
+    info: "브리트니 스피어스의 대표적인 댄스팝 노래로 전주만 들어도 모두가 알 노래입니다! 코마 여자멤버 7명이 보여주는 화려한 댄스 퍼포먼스 기대해주세요!",
     nameId: "toxic",
     members: [
       {
@@ -209,8 +209,8 @@ var songInfo = {
   move: {
     name: "Move",
     singer: "Treasure",
-    image: "static/img/move.jpg",
-    info: "@@@@@@개쩌는 곡",
+    image: "https://drive.google.com/uc?export=view&id=1w1AIkzIqa768wugjQn75cYHySAm51Qlb",
+    info: '중독성 넘치는 가사와 화려한 비트로 강렬한 퍼포먼스가 가득한 트레저의 "move"를 코마 남자 멤버 5명으로 구성하여 준비해 봤습니다 많은 관심과 호응 부탁드려요!',
     nameId: "move",
     members: [
       {
@@ -249,8 +249,8 @@ var songInfo = {
   twentyone: {
     name: "2NE1 remix",
     singer: "2NE1",
-    image: "static/img/2ne1.jpg",
-    info: "@@@@@@개쩌는 곡",
+    image: "https://drive.google.com/uc?export=view&id=1WkkadLihorsDX7h8ht6q_ZSa-_iAfkGi",
+    info: "어린 시절 모두가 열광했던 투애니원 곡들을 퍼포먼스와 함께 준비했습니다! 힘이 많이 필요한 안무이기 때문에 여러분들의 많은 환호와 응원이 필요합니다 ><!",
     nameId: "twentyone",
     members: [
 {
@@ -290,8 +290,8 @@ var songInfo = {
   lovesick: {
     name:"Lovesick Girls",
     singer:"Black Pink",
-    image: "static/img/lovesick.jpg",
-    info: "개쩌는곡 123456",
+    image: "https://drive.google.com/uc?export=view&id=1FWp0fATV7ow5oaHRoj1vwt00rwqplxtL",
+    info: "블랙핑크 럽식걸을 전과는 다른 밴드버전으로, 원곡보다 더욱 웅장하게 편곡한 옴니버스와 함께 공연을 준비해 보았습니다! 새롭게 편곡된 럽식걸을 떼창으로 함께 즐겨주세요!",
     nameId: "lovesick",
     members: [
       {
@@ -354,8 +354,8 @@ var songInfo = {
   tomboy: {
     name:"TOMBOY",
     singer:"(G)-Idle",
-    image: "static/img/tomboy.jpg",
-    info: "개쩌는곡 12345",
+    image: "https://drive.google.com/uc?export=view&id=1ClEex2hNpEBSvJqm-5YPwwrWe_w-F6Qj",
+    info: "기존의 톰보이가 아닌, 락밴드버젼으로 새롭게 편곡된 톰보이! 모두가 아는 하이라이트 가사 큰소리로 떼창하며 즐겨주세요!",
     nameId: "tomboy",
     members: [
       {
@@ -424,8 +424,8 @@ var songInfo = {
   celestial: {
     name:"No Celestial",
     singer:"LE SSERAFIM",
-    image: "static/img/celestial.jpg",
-    info: "개쩌는곡 12345678",
+    image: "https://drive.google.com/uc?export=view&id=1aA0JcsgNCYGLi0Bix52WyHERSTsgfhUh",
+    info: "관객 모두 즐길 수 있는 르세라핌의 락밴드곡! 같이 하이틴무드를 느끼며 무대 즐겁게 봐주세요!",
     nameId: "celestial",
     members: [
       {
@@ -496,7 +496,7 @@ var songInfo = {
   alive: {
     name: "Alive",
     singer: "Touched",
-    image: "static/img/touched.jpg",
+    image: "https://drive.google.com/uc?export=view&id=17a0ASWX3tlYANusDfhgXn8HX9QhodB61",
     info: "@@@@@@개쩌는 곡123",
     nameId: "alive",
     members: [
@@ -542,7 +542,7 @@ var songInfo = {
   hibully: {
     name: "Hi Bully",
     singer: "Touched",
-    image: "static/img/touched2.jpg",
+    image: "https://drive.google.com/uc?export=view&id=19qZo_ri0yaBAAk9OSXPDX2dXLTnCwwc5",
     info: "@@@@@@개쩌는 곡",
     nameId: "hibully",
     members: [
@@ -587,7 +587,7 @@ var songInfo = {
   anyway: {
     name: "좋지 아니한가",
     singer: "유다빈 밴드",
-    image: "static/img/touched.jpg",
+    image: "https://drive.google.com/uc?export=view&id=1JZeXIXJscIWAACYumm8tGqLteZrklkOj",
     info: "@@@@@@개쩌는 곡321",
     nameId: "anyway",
     members: [
@@ -634,8 +634,8 @@ var songInfo = {
   privacy: {
     name: "Sex you / Privacy",
     singer: " Bando Jonez / Chris Brown",
-    image: "static/img/privacy.jpg",
-    info: "@@@@@@개쩌는 곡",
+    image: "https://drive.google.com/uc?export=view&id=1wVJRZPdRQE9ZWBfwk908psKrfMEYyj2f",
+    info: "이번 공연 중 유일하게 듀엣 댄스루틴을 담아낸 퍼포먼스입니다. 노래와 걸맞게 고급지고 강렬한 무브가 많아 보는 눈이 즐거울 무대입니다. 하이퀄리티 듀엣을 준비한만큼 댄서들 간의 호흡이 돋보일때마다 환호해주셨으면 좋겠습니다!",
     nameId: "privacy",
     members: [
       {
@@ -667,8 +667,8 @@ var songInfo = {
   killa: {
     name: "Love Killa",
     singer: "MONSTA X",
-    image: "static/img/killa.jpg",
-    info: "@@@@@@개쩌는 곡",
+    image: "https://drive.google.com/uc?export=view&id=1s3qw3uxkrxZ778f_NOtz8cXZ6hs-1HOo",
+    info: '다크한 사운드와 감성적인 멜로디인 몬스타엑스의 "Love Killa"를 4명으로 재구성하여 퍼포먼스를 준비했습니다. 많은 호응 부탁드립니다!',
     nameId: "killa",
     members: [
       {
@@ -700,8 +700,8 @@ var songInfo = {
   kream: {
     name: "kream(Feat.Tyga)",
     singer: "Iggy Azalea",
-    image: "static/img/kream.jpg",
-    info: "@@@@@@개쩌는 곡",
+    image: "https://drive.google.com/uc?export=view&id=1c0W_Jp1FTdswYeNvm2xNMSVqICCRuJuS",
+    info: "이 무대는 코마 여성 멤버들의 힙한 매력을 볼 수 있는 무대입니다노래를 모르셔도 환호할 만한 킬링 포인트들이 많으니 같이 즐겨주세요!",
     nameId: "kream",
     members: [
       {
@@ -745,8 +745,8 @@ var songInfo = {
   hyuna: {
     name: "HyunA Remix",
     singer: "HyunA",
-    image: "static/img/hyuna.jpg",
-    info: "@@@@@@개쩌는 곡",
+    image: "https://drive.google.com/uc?export=view&id=1FVHlBysI93WkwUz-T3sLSmwUc9j5t5Kp",
+    info: "그 시절 모두가 열광했던 현아의 히트곡들을 메들리로 보여드리기 위해 준비한 무대입니다. 파격적인 퍼포먼스로 준비했으니 많은 환호 부탁드립니다!",
     nameId: "hyuna",
     members: [
       {
@@ -792,8 +792,8 @@ var songInfo = {
   beast: {
     name: "으 르 렁",
     singer: "EXO",
-    image: "static/img/beast.jpg",
-    info: "@@@@@@개쩌는 곡777",
+    image: "https://drive.google.com/uc?export=view&id=19VsHsSRH3w0YTrj6Bhi7tHJsX5ANKKfo",
+    info: "2013년 야성미로 대한민국을  강타했던 엑소의 으르렁을 혼성으로 강력하게 준비했습니다! 관객 여러분 모두 2013년을 추억하며 즐겨주세요!",
     nameId: "beast",
     members: [
       {
@@ -837,8 +837,8 @@ var songInfo = {
   bang: {
     name: "뱅뱅뱅",
     singer: "Big Bang",
-    image: "static/img/bang.jpg",
-    info: "@@@@@@개쩌는 곡357",
+    image: "https://drive.google.com/uc?export=view&id=1Rh8PLv7JreQx5i4GzUSijCqC6o9zmoc1",
+    info: "노래 전주만 들어도 몸이 절로 반응하는 빅뱅의 뱅뱅뱅 노래를 옴니버스와 함께 공연합니다. 전주에선 다같이 박수를, 하이라이트에서는 머리 위로 손을 흔들며 함께 즐겨주세요!",
     nameId: "bang",
     members: [
       {
