@@ -8,6 +8,10 @@
     src: url("../font/establish\ Retrosans.ttf") format('truetype');
 }
 
+@font-face {
+    font-family: title;
+    src: url("../font/DNFBitBitv2.ttf") format('truetype');
+}
 
 *{
     font-family: 'mayo', cursive;
@@ -123,7 +127,7 @@ body {
     width: 30rem;
     justify-content: center;
     padding-top: 1.8rem;
-    background-image: url(../img/png/ttbox.png);
+    background-image: url("https://drive.google.com/uc?export=view&id=17N2InTranQ7lXFw_3cBSfdiaqWkzKYjX");
     background-size: 90% 90%;
     background-repeat: no-repeat;
     background-position: center;
