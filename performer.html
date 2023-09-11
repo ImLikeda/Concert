@@ -23,18 +23,21 @@
   </body>
   <script>
     var songName = getQueryParam("song");
+    
+    thissongInfo = songInfo[songName]
 
-    var song = songInfo.songName;
     var songBox = document.getElementById("song-info");
     songBox.innerHTML = `
-        <img src="${songName.image}"width="4rem" height="4rem"></div>
+        <img src="${thissongInfo.image}"width="4rem" height="4rem"></div>
           <div class="text">
-            <div class="singer">${songName.singer}</div>
-            <div class="songname">${songName.name}</div>
-            <div class="songex">${songName.info}</div>
+            <div class="singer">${thissongInfo.singer}</div>
+            <div class="songname">${thissongInfo.name}</div>
+            <div class="songex">${thissongInfo.info}</div>
         </div>`;
 
-    var members = song.members;
+
+        //멤버 리스트에 songinfo.js에 담겨있는 멤버 리스트 받아와서 넣기
+    var members = songInfo[songName].members;
     var member_html = "";
     for (let i = 0; i < members.length; i++) {
       member_html += `
@@ -50,19 +53,26 @@
     var memberBox = document.getElementById("member-section");
     memberBox.innerHTML = member_html;
 
+
+    // 가사 보기(toLyricbox)를 사용하는 링크에 정보 lyrics라는 정보 넣기
     function MoveLyricPage(lyrics) {
       window.location.href = "Lyrics.html?lyrics=" + lyrics;
     }
 
+
+    // 옴니 곡에만 가사 보기 블럭을 넣기
     var lyricbox = document.getElementById("tolyricbox");
     var settitle = document.getElementById("songtitle");
 
-    if (song.name === "Far Away" || song.name === "어느샌가 우리는 매일을 살아왔네" || song.name === "Tik Tak Tok" || song.name === "Alive" || song.name === "hibully" || song.name === "anyway") {
+    if (songName === "faraway" || songName === "everyday" || songName === "tiktaktok" || songName === "alive" || songName === "hibully" || songName === "anyway") {
       lyricbox.style.display = 'flex';
-      settitle.innerHTML = `${song.name}`
+      settitle.innerHTML = `${songInfo[songName].name}`
+
     }
     else {
       lyricbox.style.display = "none";
+      settitle.innerHTML = `${songInfo[songName].name}`
+      document.getElementById('member-section').style.marginTop = '4.5rem' ;
     }
   </script>
 </html>

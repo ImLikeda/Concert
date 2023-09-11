@@ -3,7 +3,7 @@ var lyrics = {
         name: "Far Away",
         singer: "Lacuna",
         info: "신나버려",
-        image: "static/img/faraway.jpg",
+        image: "https://drive.google.com/uc?export=view&id=1XQdKS2abqHHSo9De_0nzZgQUAz1MFlx2",
         lyric: `창 밖은 흑백으로 덮혀 있어
             아까부터 비는 내리고 있어
             너는 작은 의자에 몸을 맡기고
@@ -40,7 +40,7 @@ var lyrics = {
         name: "어느샌가 우리는 매일을 살아왔네",
         singer: "The Polse",
         info: "아주조아",
-        image: "static/img/everyday.jpg",
+        image: "https://drive.google.com/uc?export=view&id=1ou6wDzaeXONWXhaLGHNuN3eilpa4S89P",
         lyric: `
             그 옛날 한적하던 시간을
             드넓은 하늘을 바라보던 때를
@@ -71,7 +71,7 @@ var lyrics = {
         name: "Tik Tak Tok",
         singer: "Silicagel",
         info: "아주조아",
-        image: "static/img/tiktaktok.jpg",
+        image: "https://drive.google.com/uc?export=view&id=10-JEpDJ1YvvI1aABqaK4NcL0isr7C9ef",
         lyric: `
         입력된 명작에서
         압축된 영화까지
@@ -102,9 +102,9 @@ var lyrics = {
     },
     hibully: {
         name: "Hi Bully",
-        singer: "유다빈 밴드",
+        singer: "터치드",
         info: "아주조아",
-        image: "static/img/touched2.jpg",
+        image: "https://drive.google.com/uc?export=view&id=19qZo_ri0yaBAAk9OSXPDX2dXLTnCwwc5",
         lyric: `안녕 날 괴롭히던 너
         좋아 보여 웃는 네 모습
         여전히 나를 깔보며
@@ -174,7 +174,7 @@ var lyrics = {
         name: "Alive",
         singer: "유다빈 밴드",
         info: "아주조아",
-        image: "static/img/touched.jpg",
+        image: "https://drive.google.com/uc?export=view&id=17a0ASWX3tlYANusDfhgXn8HX9QhodB61",
         lyric: `아득하게 펼쳐진 이 밤에
         내 숨을 느껴
         아스라이 내게 오는 소리
@@ -233,7 +233,7 @@ var lyrics = {
             name: "좋지 아니한가",
             singer: "유다빈 밴드",
             info: "신나버려",
-            image: "static/img/anyway.jpg",
+            image: "https://drive.google.com/uc?export=view&id=1JZeXIXJscIWAACYumm8tGqLteZrklkOj",
             lyric: '나무가 사라져간 산길' +
                 '주인 없는 바다' +
                 '그래도 좋지 아니한가' +
