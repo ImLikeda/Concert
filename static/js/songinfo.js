@@ -295,10 +295,16 @@ var songInfo = {
     nameId: "lovesick",
     members: [
       {
-        th: "",
-        name: "",
+        th: "37th",
+        name: "정예린",
         position: "보컬",
-        insta: "",
+        insta: "yerin._.1108",
+      },
+      {
+        th: "36th",
+        name: "이송강희",
+        position: "보컬",
+        insta: "rkd.h2",
       },
       {
         th: "32nd",
@@ -319,10 +325,10 @@ var songInfo = {
         insta: "re_base",
       },
       {
-        th: "32nd",
-        name: "오제욱",
+        th: "37nd",
+        name: "이성재",
         position: "드럼",
-        insta: "oookk_2",
+        insta: "s.jae__01",
       },
       {
         th: "",
@@ -359,10 +365,16 @@ var songInfo = {
     nameId: "tomboy",
     members: [
       {
-        th: "",
-        name: "",
+        th: "37th",
+        name: "정예린",
         position: "보컬",
-        insta: "",
+        insta: "yerin._.1108",
+      },
+      {
+        th: "36th",
+        name: "이송강희",
+        position: "보컬",
+        insta: "rkd.h2",
       },
       {
         th: "32nd",
@@ -429,10 +441,16 @@ var songInfo = {
     nameId: "celestial",
     members: [
       {
-        th: "",
-        name: "",
+        th: "37th",
+        name: "정예린",
         position: "보컬",
-        insta: "",
+        insta: "yerin._.1108",
+      },
+      {
+        th: "36th",
+        name: "이송강희",
+        position: "보컬",
+        insta: "rkd.h2",
       },
       {
         th: "32nd",
@@ -502,7 +520,7 @@ var songInfo = {
     members: [
       {
         th: "36th",
-        name: "정수연",
+        name: "김수연",
         position: "보컬",
         insta: "magam.bot",
       },
@@ -525,13 +543,13 @@ var songInfo = {
         insta: "seojun8136",
       },
       {
-        th: "",
+        th: "37th",
         name: "김가람",
         position: "키보드",
-        insta: "",
+        insta: "_k1m922",
       },
       {
-        th: "37nd",
+        th: "37th",
         name: "이성재",
         position: "드럼",
         insta: "s.jae__01",
@@ -571,10 +589,10 @@ var songInfo = {
         insta: "seojun8136",
       },
       {
-        th: "",
+        th: "37th",
         name: "김가람",
         position: "키보드",
-        insta: "",
+        insta: "_k1m922",
       },
       {
         th: "37nd",
@@ -593,7 +611,7 @@ var songInfo = {
     members: [
       {
         th: "36th",
-        name: "정수연",
+        name: "김수연",
         position: "보컬",
         insta: "magam.bot",
       },
@@ -797,6 +815,42 @@ var songInfo = {
     nameId: "beast",
     members: [
       {
+        th: "36th",
+        name: "문선웅",
+        position: "보컬",
+        insta: "s._.wm_m",
+      },
+      {
+        th: "36th",
+        name: "김용준",
+        position: "보컬",
+        insta: "dragune_",
+      },
+      {
+        th: "32th",
+        name: "기민준",
+        position: "일렉 기타",
+        insta: "potato.9915",
+      },
+      {
+        th: "36th",
+        name: "김서준",
+        position: "일렉 기타",
+        insta: "seojun8136",
+      },
+      {
+        th: "30th",
+        name: "조용완",
+        position: "베이스",
+        insta: "seojun8136",
+      },
+      {
+        th: "37th",
+        name: "이성재",
+        position: "드럼",
+        insta: "s.jae__01",
+      },
+      {
         th: "",
         name: "김미정",
         position: "",
@@ -841,6 +895,42 @@ var songInfo = {
     info: "노래 전주만 들어도 몸이 절로 반응하는 빅뱅의 뱅뱅뱅 노래를 옴니버스와 함께 공연합니다. 전주에선 다같이 박수를, 하이라이트에서는 머리 위로 손을 흔들며 함께 즐겨주세요!",
     nameId: "bang",
     members: [
+      {
+        th: "36th",
+        name: "문선웅",
+        position: "보컬",
+        insta: "s._.wm_m",
+      },
+      {
+        th: "36th",
+        name: "김용준",
+        position: "보컬",
+        insta: "dragune_",
+      },
+      {
+        th: "32th",
+        name: "기민준",
+        position: "일렉 기타",
+        insta: "potato.9915",
+      },
+      {
+        th: "36th",
+        name: "김서준",
+        position: "일렉 기타",
+        insta: "seojun8136",
+      },
+      {
+        th: "30th",
+        name: "조용완",
+        position: "베이스",
+        insta: "seojun8136",
+      },
+      {
+        th: "37th",
+        name: "이성재",
+        position: "드럼",
+        insta: "s.jae__01",
+      },
       {
         th: "",
         name: "강민지",
