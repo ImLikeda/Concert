@@ -118,7 +118,7 @@ var teams = {
       singer: "(G)-IDLE",
       info: "기존의 톰보이가 아닌, 락밴드버젼으로 새롭게 편곡된 톰보이! 모두가 아는 하이라이트 가사 큰소리로 떼창하며 즐겨주세요!",
       image: "https://drive.google.com/uc?export=view&id=1ClEex2hNpEBSvJqm-5YPwwrWe_w-F6Qj",
-      nameId: "toxic",
+      nameId: "tomboy",
     },
     {
       name: "No Celestial",

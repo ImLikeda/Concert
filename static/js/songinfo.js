@@ -295,16 +295,10 @@ var songInfo = {
     nameId: "lovesick",
     members: [
       {
-        th: "37th",
-        name: "정예린",
-        position: "보컬",
-        insta: "yerin._.1108",
-      },
-      {
-        th: "36th",
-        name: "이송강희",
-        position: "보컬",
-        insta: "rkd.h2",
+        th: "",
+        name: "강민지",
+        position: "",
+        insta: "mingd_0.0",
       },
       {
         th: "32nd",
@@ -313,34 +307,22 @@ var songInfo = {
         insta: "potato.9915",
       },
       {
+        th: "",
+        name: "김가연",
+        position: "",
+        insta: "gayeon_723",
+      },
+      {
         th: "36th",
         name: "김서준",
         position: "일렉 기타",
         insta: "seojun8136",
       },
       {
-        th: "30th",
-        name: "조용완",
-        position: "베이스",
-        insta: "re_base",
-      },
-      {
-        th: "37nd",
-        name: "이성재",
-        position: "드럼",
-        insta: "s.jae__01",
-      },
-      {
         th: "",
-        name: "강민지",
+        name: "김지희",
         position: "",
-        insta: "mingd_0.0",
-      },
-      {
-        th: "",
-        name: "김가연",
-        position: "",
-        insta: "gayeon_723",
+        insta: "jiihiii_",
       },
       {
         th: "",
@@ -349,10 +331,28 @@ var songInfo = {
         insta: "m1ye0n__",
       },
       {
-        th: "",
-        name: "김지희",
-        position: "",
-        insta: "jiihiii_",
+        th: "37nd",
+        name: "이성재",
+        position: "드럼",
+        insta: "s.jae__01",
+      },
+      {
+        th: "36th",
+        name: "이송강희",
+        position: "보컬",
+        insta: "rkd.h2",
+      },
+      {
+        th: "37th",
+        name: "정예린",
+        position: "보컬",
+        insta: "yerin._.1108",
+      },
+      {
+        th: "30th",
+        name: "조용완",
+        position: "베이스",
+        insta: "re_base",
       },
     ]
   },
@@ -365,40 +365,10 @@ var songInfo = {
     nameId: "tomboy",
     members: [
       {
-        th: "37th",
-        name: "정예린",
-        position: "보컬",
-        insta: "yerin._.1108",
-      },
-      {
-        th: "36th",
-        name: "이송강희",
-        position: "보컬",
-        insta: "rkd.h2",
-      },
-      {
         th: "32nd",
         name: "기민준",
         position: "일렉 기타",
         insta: "potato.9915",
-      },
-      {
-        th: "36th",
-        name: "김서준",
-        position: "일렉 기타",
-        insta: "seojun8136",
-      },
-      {
-        th: "30th",
-        name: "조용완",
-        position: "베이스",
-        insta: "re_base",
-      },
-      {
-        th: "32nd",
-        name: "오제욱",
-        position: "드럼",
-        insta: "oookk_2",
       },
       {
         th: "",
@@ -407,10 +377,28 @@ var songInfo = {
         insta: "mi_ouo77",
       },
       {
+        th: "36th",
+        name: "김서준",
+        position: "일렉 기타",
+        insta: "seojun8136",
+      },
+      {
         th: "",
         name: "김혜선",
         position: "",
         insta: "miyu.ss2",
+      },
+      {
+        th: "32nd",
+        name: "오제욱",
+        position: "드럼",
+        insta: "oookk_2",
+      },
+      {
+        th: "36th",
+        name: "이송강희",
+        position: "보컬",
+        insta: "rkd.h2",
       },
       {
         th: "",
@@ -423,6 +411,18 @@ var songInfo = {
         name: "이은빈",
         position: "",
         insta: "wkr_dms_do",
+      },
+      {
+        th: "37th",
+        name: "정예린",
+        position: "보컬",
+        insta: "yerin._.1108",
+      },  
+      {
+        th: "30th",
+        name: "조용완",
+        position: "베이스",
+        insta: "re_base",
       },
       {
         th: "",
@@ -441,40 +441,10 @@ var songInfo = {
     nameId: "celestial",
     members: [
       {
-        th: "37th",
-        name: "정예린",
-        position: "보컬",
-        insta: "yerin._.1108",
-      },
-      {
-        th: "36th",
-        name: "이송강희",
-        position: "보컬",
-        insta: "rkd.h2",
-      },
-      {
         th: "32nd",
         name: "기민준",
         position: "일렉 기타",
         insta: "potato.9915",
-      },
-      {
-        th: "36th",
-        name: "김서준",
-        position: "일렉 기타",
-        insta: "seojun8136",
-      },
-      {
-        th: "30th",
-        name: "조용완",
-        position: "베이스",
-        insta: "re_base",
-      },
-      {
-        th: "37nd",
-        name: "이성재",
-        position: "드럼",
-        insta: "s.jae__01",
       },
       {
         th: "",
@@ -483,10 +453,28 @@ var songInfo = {
         insta: "mi_ouo77",
       },
       {
+        th: "36th",
+        name: "김서준",
+        position: "일렉 기타",
+        insta: "seojun8136",
+      },
+      {
         th: "",
         name: "김혜선",
         position: "",
         insta: "miyu.ss2",
+      },
+      {
+        th: "36th",
+        name: "이송강희",
+        position: "보컬",
+        insta: "rkd.h2",
+      },
+      {
+        th: "37nd",
+        name: "이성재",
+        position: "드럼",
+        insta: "s.jae__01",
       },
       {
         th: "",
@@ -499,6 +487,18 @@ var songInfo = {
         name: "이은빈",
         position: "",
         insta: "wkr_dms_do",
+      },
+      {
+        th: "37th",
+        name: "정예린",
+        position: "보컬",
+        insta: "yerin._.1108",
+      },
+      {
+        th: "30th",
+        name: "조용완",
+        position: "베이스",
+        insta: "re_base",
       },
       {
         th: "",
@@ -541,12 +541,6 @@ var songInfo = {
         name: "김서준",
         position: "베이스",
         insta: "seojun8136",
-      },
-      {
-        th: "37th",
-        name: "김가람",
-        position: "키보드",
-        insta: "_k1m922",
       },
       {
         th: "37th",
@@ -815,40 +809,10 @@ var songInfo = {
     nameId: "beast",
     members: [
       {
-        th: "36th",
-        name: "문선웅",
-        position: "보컬",
-        insta: "s._.wm_m",
-      },
-      {
-        th: "36th",
-        name: "김용준",
-        position: "보컬",
-        insta: "dragune_",
-      },
-      {
         th: "32th",
         name: "기민준",
         position: "일렉 기타",
         insta: "potato.9915",
-      },
-      {
-        th: "36th",
-        name: "김서준",
-        position: "일렉 기타",
-        insta: "seojun8136",
-      },
-      {
-        th: "30th",
-        name: "조용완",
-        position: "베이스",
-        insta: "seojun8136",
-      },
-      {
-        th: "37th",
-        name: "이성재",
-        position: "드럼",
-        insta: "s.jae__01",
       },
       {
         th: "",
@@ -857,10 +821,16 @@ var songInfo = {
         insta: "mi_ouo77",
       },
       {
+        th: "36th",
+        name: "김서준",
+        position: "일렉 기타",
+        insta: "seojun8136",
+      },
+      {
         th: "",
-        name: "김연범",
+        name: "김지희",
         position: "",
-        insta: "ski_age_03",
+        insta: "jiihiii_",
       },
       {
         th: "",
@@ -870,9 +840,33 @@ var songInfo = {
       },
       {
         th: "",
+        name: "김연범",
+        position: "",
+        insta: "ski_age_03",
+      },
+      {
+        th: "36th",
+        name: "김용준",
+        position: "보컬",
+        insta: "dragune_",
+      },
+      {
+        th: "36th",
+        name: "문선웅",
+        position: "보컬",
+        insta: "s._.wm_m",
+      },
+      {
+        th: "",
         name: "성재오",
         position: "",
         insta: "seongzaeo",
+      },
+      {
+        th: "37th",
+        name: "이성재",
+        position: "드럼",
+        insta: "s.jae__01",
       },
       {
         th: "",
@@ -881,10 +875,10 @@ var songInfo = {
         insta: "alsryxx",
       },
       {
-        th: "",
-        name: "김지희",
-        position: "",
-        insta: "jiihiii_",
+        th: "30th",
+        name: "조용완",
+        position: "베이스",
+        insta: "seojun8136",
       }
     ],
   },
@@ -896,46 +890,16 @@ var songInfo = {
     nameId: "bang",
     members: [
       {
-        th: "36th",
-        name: "문선웅",
-        position: "보컬",
-        insta: "s._.wm_m",
-      },
-      {
-        th: "36th",
-        name: "김용준",
-        position: "보컬",
-        insta: "dragune_",
+        th: "",
+        name: "강민지",
+        position: "",
+        insta: "mingd_0.0",
       },
       {
         th: "32th",
         name: "기민준",
         position: "일렉 기타",
         insta: "potato.9915",
-      },
-      {
-        th: "36th",
-        name: "김서준",
-        position: "일렉 기타",
-        insta: "seojun8136",
-      },
-      {
-        th: "30th",
-        name: "조용완",
-        position: "베이스",
-        insta: "seojun8136",
-      },
-      {
-        th: "37th",
-        name: "이성재",
-        position: "드럼",
-        insta: "s.jae__01",
-      },
-      {
-        th: "",
-        name: "강민지",
-        position: "",
-        insta: "mingd_0.0",
       },
       {
         th: "",
@@ -950,10 +914,22 @@ var songInfo = {
         insta: "mi_ouo77",
       },
       {
+        th: "36th",
+        name: "김서준",
+        position: "일렉 기타",
+        insta: "seojun8136",
+      },
+      {
         th: "",
         name: "김연범",
         position: "",
         insta: "ski_age_03",
+      },
+      {
+        th: "36th",
+        name: "김용준",
+        position: "보컬",
+        insta: "dragune_",
       },
       {
         th: "",
@@ -968,10 +944,22 @@ var songInfo = {
         insta: "miyu.ss2",
       },
       {
+        th: "36th",
+        name: "문선웅",
+        position: "보컬",
+        insta: "s._.wm_m",
+      },
+      {
         th: "",
         name: "성재오",
         position: "",
         insta: "seongzaeo",
+      },
+      {
+        th: "37th",
+        name: "이성재",
+        position: "드럼",
+        insta: "s.jae__01",
       },
       {
         th: "",
@@ -1002,6 +990,12 @@ var songInfo = {
         name: "정이주",
         position: "",
         insta: "1uveju",
+      },
+      {
+        th: "30th",
+        name: "조용완",
+        position: "베이스",
+        insta: "seojun8136",
       },
       {
         th: "",
