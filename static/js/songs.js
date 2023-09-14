@@ -77,8 +77,15 @@ var teams = {
   ],
   comaB: [
     {
-      name: "Privacy / Needed Me",
-      singer: "Chris Brown / Rihanna",
+      name: "Seven",
+      singer: "정국",
+      info: "밝은 분위기로 파트2에 시작을 열 노래! 정국의 세븐입니다! 같이 흥얼거리며 즐겨주시기 바랍니다~~",
+      image: "https://drive.google.com/uc?export=view&id=1wVJRZPdRQE9ZWBfwk908psKrfMEYyj2f",
+      nameId: "privacy",
+    },
+    {
+      name: "sex you / Take You Down",
+      singer: "Bando Jonez / Chris Brown",
       info: "이번 공연 중 유일하게 듀엣 댄스루틴을 담아낸 퍼포먼스입니다. 노래와 걸맞게 고급지고 강렬한 무브가 많아 보는 눈이 즐거울 무대입니다. 하이퀄리티 듀엣을 준비한만큼 댄서들 간의 호흡이 돋보일때마다 환호해주셨으면 좋겠습니다!",
       image: "https://drive.google.com/uc?export=view&id=1wVJRZPdRQE9ZWBfwk908psKrfMEYyj2f",
       nameId: "privacy",
