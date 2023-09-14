@@ -100,6 +100,64 @@ var lyrics = {
         big bang force 참 우울함
             `
     },
+    alive: {
+        name: "Alive",
+        singer: "유다빈 밴드",
+        info: "아주조아",
+        image: "https://drive.google.com/uc?export=view&id=17a0ASWX3tlYANusDfhgXn8HX9QhodB61",
+        lyric: `아득하게 펼쳐진 이 밤에
+        내 숨을 느껴
+        아스라이 내게 오는 소리
+        들리지 않니
+        
+        빛을 태우고 싶어
+        더 숨을 내쉬고 싶어
+        살아있음을 느껴
+        
+        내 안에 갇힌 내 모든 가치
+        너에게 닿길 너에게 닿길
+        너에게 닿길
+        
+        워어어어-
+        I am still Alive
+        Breathin in this life
+
+        워어어어-
+        I am still Alive
+        I can feel the vibe
+        
+        힘이 들 수도 있어
+        우린 삶과 사랑 속에서 (삶과 사랑 속에서)
+        살아있음을 느껴
+        
+        우리 매일이 마치 전쟁 같진 않니
+        Take a deep breath Take a deep breath
+        Take a deep breath Take a deep breath
+        
+        워어어어-
+        I am still Alive
+        Breathin in this life
+        
+        워어어어-
+        I am still Alive
+        I can feel the vive
+        
+        이 밤의 멜로디 우리들의 소리
+        꿈같은 하모니
+        조명 아래 모인 우리의 호흡이
+        
+        워어어어-
+        You are still alive
+        Breathin in this life
+        
+        워어어어-
+        We are still alive
+        We can feel the vibe
+        
+        We are still alive
+        We can feel the
+            `
+    },
     hibully: {
         name: "Hi Bully",
         singer: "터치드",
@@ -170,66 +228,7 @@ var lyrics = {
         이제 고갤 들어 널 바라본다
         `
     },
-    alive: {
-        name: "Alive",
-        singer: "유다빈 밴드",
-        info: "아주조아",
-        image: "https://drive.google.com/uc?export=view&id=17a0ASWX3tlYANusDfhgXn8HX9QhodB61",
-        lyric: `아득하게 펼쳐진 이 밤에
-        내 숨을 느껴
-        아스라이 내게 오는 소리
-        들리지 않니
-        
-        빛을 태우고 싶어
-        더 숨을 내쉬고 싶어
-        살아있음을 느껴
-        
-        내 안에 갇힌 내 모든 가치
-        너에게 닿길 너에게 닿길
-        너에게 닿길
-        
-        워어어어-
-        I am still Alive
-        Breathin in this life
-
-        워어어어-
-        I am still Alive
-        I can feel the vibe
-        
-        힘이 들 수도 있어
-        우린 삶과 사랑 속에서 (삶과 사랑 속에서)
-        살아있음을 느껴
-        
-        우리 매일이 마치 전쟁 같진 않니
-        Take a deep breath Take a deep breath
-        Take a deep breath Take a deep breath
-        
-        워어어어-
-        I am still Alive
-        Breathin in this life
-        
-        워어어어-
-        I am still Alive
-        I can feel the vive
-        
-        이 밤의 멜로디 우리들의 소리
-        꿈같은 하모니
-        조명 아래 모인 우리의 호흡이
-        
-        워어어어-
-        You are still alive
-        Breathin in this life
-        
-        워어어어-
-        We are still alive
-        We can feel the vibe
-        
-        We are still alive
-        We can feel the
-            `
-    },
-    anyway: [
-        {
+    anyway: {
             name: "좋지 아니한가",
             singer: "유다빈 밴드",
             info: "신나버려",
@@ -292,5 +291,4 @@ var lyrics = {
                 '울고 있었다면 다시 만날 수 없는' +
                 '세상에 우린 어디 있겠는가&ensp;'
         }
-    ],
 }

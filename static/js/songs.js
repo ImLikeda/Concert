@@ -11,7 +11,7 @@ var teams = {
     {
       name: "어느샌가 우리는 <br> 매일을 살아왔네",
       singer: "The Polse",
-      info: "개쩌는 ddddddd 곡",
+      info: "우리는 가끔 행복하고 순수했던 어린 시절의 향수와 추억에 잠기곤 합니다. 이 노래를 듣는 지금, 우리 다 같이 그 시절로 돌아가보는 건 어떨까요?",
       image:
         "https://drive.google.com/uc?export=view&id=1ou6wDzaeXONWXhaLGHNuN3eilpa4S89P",
       nameId: "everyday",
@@ -63,9 +63,9 @@ var teams = {
     {
       name: "밤비",
       singer: "백현",
-      info: "어린 시절 모두가 열광했던 투애니원 곡들을 퍼포먼스와 함께 준비했습니다! 힘이 많이 필요한 안무이기 때문에 여러분들의 많은 환호와 응원이 필요합니다 ><!",
+      info: "밤비는 컨템퍼러리 R&B곡으로, 코마 남녀 멤버의 부드러운 춤선을 느낄 수 있는 무대입니다.",
       image: 
-        "https://drive.google.com/uc?export=view&id=1WkkadLihorsDX7h8ht6q_ZSa-_iAfkGi",
+        "https://drive.google.com/uc?export=view&id=19gJLxx0u0o4MkbKbCBJv39wYOa2I1yTe",
       nameId: "bambi",
     },
     {
@@ -90,31 +90,7 @@ var teams = {
       name: "Seven",
       singer: "정국",
       info: "밝은 분위기로 파트2에 시작을 열 노래! 정국의 세븐입니다! 같이 흥얼거리며 즐겨주시기 바랍니다~~",
-      image: "https://drive.google.com/uc?export=view&id=1wVJRZPdRQE9ZWBfwk908psKrfMEYyj2f",
-      nameId: "privacy",
-    },
-    {
-      name: "sex you / Take You Down",
-      singer: "Bando Jonez / Chris Brown",
-      info: "이번 공연 중 유일하게 듀엣 댄스루틴을 담아낸 퍼포먼스입니다. 노래와 걸맞게 고급지고 강렬한 무브가 많아 보는 눈이 즐거울 무대입니다. 하이퀄리티 듀엣을 준비한만큼 댄서들 간의 호흡이 돋보일때마다 환호해주셨으면 좋겠습니다!",
-      image: "https://drive.google.com/uc?export=view&id=1wVJRZPdRQE9ZWBfwk908psKrfMEYyj2f",
-      nameId: "privacy",
-    },
-    {
-      name: "Love Killa",
-      singer: "MONSTA X",
-      info: '다크한 사운드와 감성적인 멜로디인 몬스타엑스의 "Love Killa"를 4명으로 재구성하여 퍼포먼스를 준비했습니다. 많은 호응 부탁드립니다!',
-      image: "https://drive.google.com/uc?export=view&id=1s3qw3uxkrxZ778f_NOtz8cXZ6hs-1HOo",
-      nameId: "killa",
-    },
-    {
-      name: "kream(Feat.Tyga)",
-      singer: "lggy Azalea",
-      info: "이 무대는 코마 여성 멤버들의 힙한 매력을 볼 수 있는 무대입니다노래를 모르셔도 환호할 만한 킬링 포인트들이 많으니 같이 즐겨주세요!",
-      image: "https://drive.google.com/uc?export=view&id=1c0W_Jp1FTdswYeNvm2xNMSVqICCRuJuS",
-      nameId: "kream",
-      image:
-        "https://drive.google.com/uc?export=view&id=16GVMupbGmBUxehl4A30D7ezN3qCPqwdF",
+      image: "https://drive.google.com/uc?export=view&id=16GVMupbGmBUxehl4A30D7ezN3qCPqwdF",
       nameId: "seven",
     },
     {
@@ -142,12 +118,11 @@ var teams = {
       nameId: "kream",
     },
     {
-      name: "Privacy / Needed Me",
-      singer: "Chris Brown / Rihanna",
+      name: "sex you / Take You Down",
+      singer: "Bando Jonez / Chris Brown",
       info: "이번 공연 중 유일하게 듀엣 댄스루틴을 담아낸 퍼포먼스입니다. 노래와 걸맞게 고급지고 강렬한 무브가 많아 보는 눈이 즐거울 무대입니다. 하이퀄리티 듀엣을 준비한만큼 댄서들 간의 호흡이 돋보일때마다 환호해주셨으면 좋겠습니다!",
-      image:
-        "https://drive.google.com/uc?export=view&id=1wVJRZPdRQE9ZWBfwk908psKrfMEYyj2f",
-      nameId: "privacy",
+      image: "https://drive.google.com/uc?export=view&id=12S81_sbBG4YacXaOEhk0oLRKRFsM6HK4",
+      nameId: "takeu",
     },
   ],
   collaboA: [

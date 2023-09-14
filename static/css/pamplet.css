@@ -183,8 +183,7 @@ body {
 }
 
 .teamtitle > img {
-    width: 80%;
-    
+    width: 80%;   
 }
 
 .ex {
@@ -211,6 +210,7 @@ body {
     width: 85%;
     margin: 2rem;
     margin-bottom: 0.5rem;
+    font-size: 1rem;
 }
 /* .song:nth-child(3) {
     margin: 2rem;
@@ -231,10 +231,15 @@ body {
 
 .song > .text > .singer {
     opacity: 80%;
+    font-size: 1.2rem;
 }
 
 .song > .text > .songname {
     font-size: 1.5rem;
+}
+
+.song > .text > .songex {
+    font-size: 1rem;
 }
 
 /* ---- 여기까지 teams css*/
@@ -269,6 +274,7 @@ body {
 
 .members > .member > .th {
     text-align: center;
+    font-size: 0.75rem;
 }
 
 .members > .member > .name {

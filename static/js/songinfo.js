@@ -6,7 +6,7 @@ var songInfo = {
     singer: "Lacuna",
     image:
       "https://drive.google.com/uc?export=view&amp;id=1XQdKS2abqHHSo9De_0nzZgQUAz1MFlx2",
-    info: "개쩌는 곡 @@@@@@",
+    info: "지금 당장의 막막함에 슬퍼하지마세요. 오늘 하루도 잘 버틴 당신께 이 곡을 바칩니다.",
     nameId: "faraway",
     members: [
       {
@@ -46,7 +46,7 @@ var songInfo = {
     singer: "The Polse",
     image:
       "https://drive.google.com/uc?export=view&id=1ou6wDzaeXONWXhaLGHNuN3eilpa4S89P",
-    info: "개쩌는 곡 @@@@@@123123",
+    info: "우리는 가끔 행복하고 순수했던 어린 시절의 향수와 추억에 잠기곤 합니다. 이 노래를 듣는 지금, 우리 다 같이 그 시절로 돌아가보는 건 어떨까요?",
     nameId: "everyday",
     members: [
       {
@@ -337,7 +337,7 @@ var songInfo = {
         insta: "s.jae__01",
       },
       {
-        th: "36th",
+        th: "37th",
         name: "이송강희",
         position: "보컬",
         insta: "rkd.h2",
@@ -396,7 +396,7 @@ var songInfo = {
         insta: "s.jae__01",
       },
       {
-        th: "36th",
+        th: "37th",
         name: "이송강희",
         position: "보컬",
         insta: "rkd.h2",
@@ -467,7 +467,7 @@ var songInfo = {
         insta: "miyu.ss2",
       },
       {
-        th: "36th",
+        th: "37th",
         name: "이송강희",
         position: "보컬",
         insta: "rkd.h2",
@@ -522,7 +522,7 @@ var songInfo = {
     nameId: "alive",
     members: [
       {
-        th: "36th",
+        th: "37th",
         name: "김수연",
         position: "보컬",
         insta: "magam.bot",
@@ -534,7 +534,7 @@ var songInfo = {
         insta: "potato.9915",
       },
       {
-        th: "37th",
+        th: "36th",
         name: "박창현",
         position: "일렉 기타",
         insta: "i_am_not_183",
@@ -563,7 +563,7 @@ var songInfo = {
     nameId: "hibully",
     members: [
       {
-        th: "36th",
+        th: "37th",
         name: "김수연",
         position: "보컬",
         insta: "magam.bot",
@@ -575,7 +575,7 @@ var songInfo = {
         insta: "potato.9915",
       },
       {
-        th: "37th",
+        th: "36th",
         name: "박창현",
         position: "일렉 기타",
         insta: "i_am_not_183",
@@ -609,7 +609,7 @@ var songInfo = {
     nameId: "anyway",
     members: [
       {
-        th: "36th",
+        th: "37th",
         name: "김수연",
         position: "보컬",
         insta: "magam.bot",
@@ -621,7 +621,7 @@ var songInfo = {
         insta: "potato.9915",
       },
       {
-        th: "37th",
+        th: "36th",
         name: "박창현",
         position: "일렉 기타",
         insta: "i_am_not_183",
@@ -633,10 +633,10 @@ var songInfo = {
         insta: "seojun8136",
       },
       {
-        th: "",
+        th: "37th",
         name: "김가람",
         position: "키보드",
-        insta: "",
+        insta: "_k1m922",
       },
       {
         th: "37nd",
@@ -646,6 +646,7 @@ var songInfo = {
       },
     ],
   },
+
   // 코마 B - 5번
   seven: {
     name: "Seven",
@@ -672,41 +673,6 @@ var songInfo = {
         name: "조예빈",
         position: "",
         insta: "and_3.9",
-      },
-    ],
-  },
-
-  privacy: {
-    name: "Sex you / Privacy",
-    singer: "Bando Jonez / Chris Brown",
-    image:
-      "https://drive.google.com/uc?export=view&id=1wVJRZPdRQE9ZWBfwk908psKrfMEYyj2f",
-    info: "이번 공연 중 유일하게 듀엣 댄스루틴을 담아낸 퍼포먼스입니다. 노래와 걸맞게 고급지고 강렬한 무브가 많아 보는 눈이 즐거울 무대입니다. 하이퀄리티 듀엣을 준비한만큼 댄서들 간의 호흡이 돋보일때마다 환호해주셨으면 좋겠습니다!",
-    nameId: "privacy",
-    members: [
-      {
-        th: "",
-        name: "김미정",
-        position: "",
-        insta: "mi_ouo77",
-      },
-      {
-        th: "",
-        name: "이슬아",
-        position: "",
-        insta: "seula__s2",
-      },
-      {
-        th: "",
-        name: "정민교",
-        position: "",
-        insta: "alsryxx",
-      },
-      {
-        th: "",
-        name: "정이주",
-        position: "",
-        insta: "1uveju",
       },
     ],
   },
@@ -833,6 +799,40 @@ var songInfo = {
         name: "조예빈",
         position: "",
         insta: "and_3.9",
+      },
+    ],
+  },
+  takeu: {
+    name: "Sex you / Take You Down",
+    singer: "Bando Jonez / Chris Brown",
+    image:
+      "https://drive.google.com/uc?export=view&id=12S81_sbBG4YacXaOEhk0oLRKRFsM6HK4",
+    info: "이번 공연 중 유일하게 듀엣 댄스루틴을 담아낸 퍼포먼스입니다. 노래와 걸맞게 고급지고 강렬한 무브가 많아 보는 눈이 즐거울 무대입니다. 하이퀄리티 듀엣을 준비한만큼 댄서들 간의 호흡이 돋보일때마다 환호해주셨으면 좋겠습니다!",
+    nameId: "takeu",
+    members: [
+      {
+        th: "",
+        name: "김미정",
+        position: "",
+        insta: "mi_ouo77",
+      },
+      {
+        th: "",
+        name: "이슬아",
+        position: "",
+        insta: "seula__s2",
+      },
+      {
+        th: "",
+        name: "정민교",
+        position: "",
+        insta: "alsryxx",
+      },
+      {
+        th: "",
+        name: "정이주",
+        position: "",
+        insta: "1uveju",
       },
     ],
   },
