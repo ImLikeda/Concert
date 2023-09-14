@@ -169,6 +169,12 @@ var songInfo = {
     members: [
       {
         th: "",
+        name: "강민지",
+        position: "",
+        insta: "mingd_0.0",
+      },
+      {
+        th: "",
         name: "김가연",
         position: "",
         insta: "gayeon_723",
@@ -181,9 +187,9 @@ var songInfo = {
       },
       {
         th: "",
-        name: "김혜선",
+        name: "이미연",
         position: "",
-        insta: "miyu.ss2",
+        insta: "m1ye0n__",
       },
       {
         th: "",
@@ -205,7 +211,34 @@ var songInfo = {
       },
     ],
   },  
-
+  bambi: {
+    name: "밤비",
+    singer: "백현",
+    image: "https://drive.google.com/uc?export=view&id=19gJLxx0u0o4MkbKbCBJv39wYOa2I1yTe",
+    info: "밤비는 컨템퍼러리 R&B곡으로, 코마 남녀 멤버의 부드러운 춤선을 느낄 수 있는 무대입니다.",
+    nameId: "bambi",
+    members: [
+      {
+        th: "",
+        name: "김미정",
+        position: "",
+        insta: "mi_ouo77",
+      },
+      {
+        th: "",
+        name: "성재오",
+        position: "",
+        insta: "seongzaeo",
+      },
+      {
+        th: "",
+        name: "정민교",
+        position: "",
+        insta: "alsryxx",
+      }
+    ],  
+  },
+  
   move: {
     name: "Move",
     singer: "Treasure",
@@ -244,46 +277,6 @@ var songInfo = {
         insta: "cho_.nnnz",
       },
     ],
-  },
-
-  twentyone: {
-    name: "2NE1 remix",
-    singer: "2NE1",
-    image: "https://drive.google.com/uc?export=view&id=1WkkadLihorsDX7h8ht6q_ZSa-_iAfkGi",
-    info: "어린 시절 모두가 열광했던 투애니원 곡들을 퍼포먼스와 함께 준비했습니다! 힘이 많이 필요한 안무이기 때문에 여러분들의 많은 환호와 응원이 필요합니다 ><!",
-    nameId: "twentyone",
-    members: [
-{
-        th: "",
-        name: "강민지",
-        position: "",
-        insta: "mingd_0.0",
-      },
-      {
-        th: "",
-        name: "김미정",
-        position: "",
-        insta: "mi_ouo77",
-      },
-      {
-        th: "",
-        name: "이슬아",
-        position: "",
-        insta: "seula__s2",
-      },
-      {
-        th: "",
-        name: "정민교",
-        position: "",
-        insta: "alsryxx",
-      },
-      {
-        th: "",
-        name: "조예빈",
-        position: "",
-        insta: "and_3.9",
-      },
-    ],  
   },
 
   // 옴X코 A - 3번
@@ -534,7 +527,7 @@ var songInfo = {
         th: "37th",
         name: "박창현",
         position: "일렉 기타",
-        insta: "bull_drunken",
+        insta: "i_am_not_183.",
       },
       {
         th: "36th",
@@ -574,7 +567,7 @@ var songInfo = {
         th: "37th",
         name: "박창현",
         position: "일렉 기타",
-        insta: "bull_drunken",
+        insta: "i_am_not_183.",
       },
       {
         th: "36th",
@@ -619,7 +612,7 @@ var songInfo = {
         th: "37th",
         name: "박창현",
         position: "일렉 기타",
-        insta: "bull_drunken",
+        insta: "i_am_not_183.",
       },
       {
         th: "36th",

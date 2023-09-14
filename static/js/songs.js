@@ -61,11 +61,11 @@ var teams = {
       nameId: "toxic",
     },
     {
-      name: "2NE1 remix",
-      singer: "2NE1",
+      name: "밤비",
+      singer: "백현",
       info: "어린 시절 모두가 열광했던 투애니원 곡들을 퍼포먼스와 함께 준비했습니다! 힘이 많이 필요한 안무이기 때문에 여러분들의 많은 환호와 응원이 필요합니다 ><!",
       image: "https://drive.google.com/uc?export=view&id=1WkkadLihorsDX7h8ht6q_ZSa-_iAfkGi",
-      nameId: "twentyone",
+      nameId: "bambi",
     },
     {
       name: "Move",
