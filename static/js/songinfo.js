@@ -164,58 +164,6 @@ var songInfo = {
     ],
   },
 
-  toxic: {
-    name: "Toxic",
-    singer: "Britney Jean Spears",
-    image:
-      "https://drive.google.com/uc?export=view&id=1LMPyyRoRG2F2wVtDRyD8k_9uVql1x97W",
-    info: "브리트니 스피어스의 대표적인 댄스팝 노래로 전주만 들어도 모두가 알 노래입니다! 코마 여자멤버 7명이 보여주는 화려한 댄스 퍼포먼스 기대해주세요!",
-    nameId: "toxic",
-    members: [
-      {
-        th: "",
-        name: "강민지",
-        position: "",
-        insta: "mingd_0.0",
-      },
-      {
-        th: "",
-        name: "김가연",
-        position: "",
-        insta: "gayeon_723",
-      },
-      {
-        th: "",
-        name: "김미정",
-        position: "",
-        insta: "mi_ouo77",
-      },
-      {
-        th: "",
-        name: "이미연",
-        position: "",
-        insta: "m1ye0n__",
-      },
-      {
-        th: "",
-        name: "이은빈",
-        position: "",
-        insta: "wkr_dms_do",
-      },
-      {
-        th: "",
-        name: "정민교",
-        position: "",
-        insta: "alsryxx",
-      },
-      {
-        th: "",
-        name: "조예빈",
-        position: "",
-        insta: "and_3.9",
-      },
-    ],
-  },
   bambi: {
     name: "밤비",
     singer: "백현",
@@ -285,7 +233,58 @@ var songInfo = {
       },
     ],
   },
-
+  toxic: {
+    name: "Toxic",
+    singer: "Britney Jean Spears",
+    image:
+      "https://drive.google.com/uc?export=view&id=1LMPyyRoRG2F2wVtDRyD8k_9uVql1x97W",
+    info: "브리트니 스피어스의 대표적인 댄스팝 노래로 전주만 들어도 모두가 알 노래입니다! 코마 여자멤버 7명이 보여주는 화려한 댄스 퍼포먼스 기대해주세요!",
+    nameId: "toxic",
+    members: [
+      {
+        th: "",
+        name: "강민지",
+        position: "",
+        insta: "mingd_0.0",
+      },
+      {
+        th: "",
+        name: "김가연",
+        position: "",
+        insta: "gayeon_723",
+      },
+      {
+        th: "",
+        name: "김미정",
+        position: "",
+        insta: "mi_ouo77",
+      },
+      {
+        th: "",
+        name: "이미연",
+        position: "",
+        insta: "m1ye0n__",
+      },
+      {
+        th: "",
+        name: "이은빈",
+        position: "",
+        insta: "wkr_dms_do",
+      },
+      {
+        th: "",
+        name: "정민교",
+        position: "",
+        insta: "alsryxx",
+      },
+      {
+        th: "",
+        name: "조예빈",
+        position: "",
+        insta: "and_3.9",
+      },
+    ],
+  },
   // 옴X코 A - 3번
   lovesick: {
     name: "Lovesick Girls",
@@ -391,10 +390,10 @@ var songInfo = {
         insta: "miyu.ss2",
       },
       {
-        th: "32nd",
-        name: "오제욱",
+        th: "37nd",
+        name: "이성재",
         position: "드럼",
-        insta: "oookk_2",
+        insta: "s.jae__01",
       },
       {
         th: "36th",
@@ -648,10 +647,38 @@ var songInfo = {
     ],
   },
   // 코마 B - 5번
+  seven: {
+    name: "Seven",
+    singer: "정국",
+    info: "밝은 분위기로 파트2에 시작을 열 노래! 정국의 세븐입니다! 같이 흥얼거리며 즐겨주시기 바랍니다~~",
+    image:
+      "https://drive.google.com/uc?export=view&id=16GVMupbGmBUxehl4A30D7ezN3qCPqwdF",
+    nameId: "seven",
+    members: [
+      {
+        th: "",
+        name: "김진우",
+        position: "",
+        insta: "teddyboii909",
+      },
+      {
+        th: "",
+        name: "강민지",
+        position: "",
+        insta: "mingd_0.0",
+      },
+      {
+        th: "",
+        name: "조예빈",
+        position: "",
+        insta: "and_3.9",
+      },
+    ],
+  },
 
   privacy: {
     name: "Sex you / Privacy",
-    singer: " Bando Jonez / Chris Brown",
+    singer: "Bando Jonez / Chris Brown",
     image:
       "https://drive.google.com/uc?export=view&id=1wVJRZPdRQE9ZWBfwk908psKrfMEYyj2f",
     info: "이번 공연 중 유일하게 듀엣 댄스루틴을 담아낸 퍼포먼스입니다. 노래와 걸맞게 고급지고 강렬한 무브가 많아 보는 눈이 즐거울 무대입니다. 하이퀄리티 듀엣을 준비한만큼 댄서들 간의 호흡이 돋보일때마다 환호해주셨으면 좋겠습니다!",
