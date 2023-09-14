@@ -1,10 +1,11 @@
 var lyrics = {
-    faraway: {
-        name: "Far Away",
-        singer: "Lacuna",
-        info: "신나버려",
-        image: "https://drive.google.com/uc?export=view&id=1XQdKS2abqHHSo9De_0nzZgQUAz1MFlx2",
-        lyric: `창 밖은 흑백으로 덮혀 있어
+  faraway: {
+    name: "Far Away",
+    singer: "Lacuna",
+    info: "신나버려",
+    image:
+      "https://drive.google.com/uc?export=view&id=1XQdKS2abqHHSo9De_0nzZgQUAz1MFlx2",
+    lyric: `창 밖은 흑백으로 덮혀 있어
             아까부터 비는 내리고 있어
             너는 작은 의자에 몸을 맡기고
             아까부터 눈물을 흘리고 있어
@@ -34,14 +35,15 @@ var lyrics = {
             away, away, away, away
             So we just gonna far away
             away, away, away, away
-            `
-    },
-    everyday: {
-        name: "어느샌가 우리는 매일을 살아왔네",
-        singer: "The Polse",
-        info: "아주조아",
-        image: "https://drive.google.com/uc?export=view&id=1ou6wDzaeXONWXhaLGHNuN3eilpa4S89P",
-        lyric: `
+            `,
+  },
+  everyday: {
+    name: "어느샌가 우리는 매일을 살아왔네",
+    singer: "The Polse",
+    info: "아주조아",
+    image:
+      "https://drive.google.com/uc?export=view&id=1ou6wDzaeXONWXhaLGHNuN3eilpa4S89P",
+    lyric: `
             그 옛날 한적하던 시간을
             드넓은 하늘을 바라보던 때를
             우리는 놓지 못하고
@@ -65,14 +67,15 @@ var lyrics = {
             추억에 잠긴다 향수에 잠긴다
             그 어린 나의 순수함은
             세월에 갔지만 시간에 물든다
-            ` 
-    },
-    tiktaktok: {
-        name: "Tik Tak Tok",
-        singer: "Silicagel",
-        info: "아주조아",
-        image: "https://drive.google.com/uc?export=view&id=10-JEpDJ1YvvI1aABqaK4NcL0isr7C9ef",
-        lyric: `
+            `,
+  },
+  tiktaktok: {
+    name: "Tik Tak Tok",
+    singer: "Silicagel",
+    info: "아주조아",
+    image:
+      "https://drive.google.com/uc?export=view&id=10-JEpDJ1YvvI1aABqaK4NcL0isr7C9ef",
+    lyric: `
         입력된 명작에서
         압축된 영화까지
         조직된 hormone assets
@@ -98,14 +101,15 @@ var lyrics = {
         keep that node 다음 기약
         drop wet soul 슬픈 생각 um um…
         big bang force 참 우울함
-            `
-    },
-    alive: {
-        name: "Alive",
-        singer: "유다빈 밴드",
-        info: "아주조아",
-        image: "https://drive.google.com/uc?export=view&id=17a0ASWX3tlYANusDfhgXn8HX9QhodB61",
-        lyric: `아득하게 펼쳐진 이 밤에
+            `,
+  },
+  alive: {
+    name: "Alive",
+    singer: "유다빈 밴드",
+    info: "아주조아",
+    image:
+      "https://drive.google.com/uc?export=view&id=17a0ASWX3tlYANusDfhgXn8HX9QhodB61",
+    lyric: `아득하게 펼쳐진 이 밤에
         내 숨을 느껴
         아스라이 내게 오는 소리
         들리지 않니
@@ -156,14 +160,15 @@ var lyrics = {
         
         We are still alive
         We can feel the
-            `
-    },
-    hibully: {
-        name: "Hi Bully",
-        singer: "터치드",
-        info: "아주조아",
-        image: "https://drive.google.com/uc?export=view&id=19qZo_ri0yaBAAk9OSXPDX2dXLTnCwwc5",
-        lyric: `안녕 날 괴롭히던 너
+            `,
+  },
+  hibully: {
+    name: "Hi Bully",
+    singer: "터치드",
+    info: "아주조아",
+    image:
+      "https://drive.google.com/uc?export=view&id=19qZo_ri0yaBAAk9OSXPDX2dXLTnCwwc5",
+    lyric: `안녕 날 괴롭히던 너
         좋아 보여 웃는 네 모습
         여전히 나를 깔보며
         짝다리 짚고 있는 너
@@ -226,69 +231,56 @@ var lyrics = {
         
         Hi Bully, my name is Jerck
         이제 고갤 들어 널 바라본다
-        `
-    },
-    anyway: {
-            name: "좋지 아니한가",
-            singer: "유다빈 밴드",
-            info: "신나버려",
-            image: "https://drive.google.com/uc?export=view&id=1JZeXIXJscIWAACYumm8tGqLteZrklkOj",
-            lyric: '나무가 사라져간 산길' +
-                '주인 없는 바다' +
-                '그래도 좋지 아니한가' +
-                '내 마음대로 되는 세상' +
+        `,
+  },
+  anyway: {
+    name: "좋지 아니한가",
+    singer: "유다빈 밴드",
+    info: "신나버려",
+    image:
+      "https://drive.google.com/uc?export=view&id=1JZeXIXJscIWAACYumm8tGqLteZrklkOj",
+    lyric: `나무가 사라져간 
+            산길 주인 없는 바다
+            그래도 좋지 아니한가 
+            내 마음대로 되는 세상
 
-                '밤이 오면 싸워왔던 기억' +
-                '일기를 쓸 만한 노트와' +
-                '연필이 생기지 않았나' +
-                '내 마음대로 그린 세상' +
+            밤이 오면 싸워왔던 기억 
+            일기를 쓸만한 노트와
+            연필이 생기지 않았나 
+            내 마음대로 그린 세상
 
-                '우린 노래해 더 나아질 거야' +
-                '우린 추억해 부질없이 지난날들' +
-                '바보같이 지난날들' +
+            저 푸른 하늘 구름 위에 
+            독수리 높이 날고
+            카우보이 세상을 삼키려 하고 
+            총성은 이어지네
 
-                '그래도 너는 좋지 아니한가' +
-                '바람에 흐를 세월 속에' +
-                '우리 같이 있지 않나' +
-                '이렇게 우린 웃기지 않는가' +
-                '울고 있었다면 다시 만날 수 없는' +
-                '세상에 우린 태어났으니까' +
+            TV 속에 싸워 이긴 전사 
+            일기 쓰고 있는 나의 천사
+            도화지에 그려질 모습 
+            그녀가 그려갈 세상
 
-                '저 푸른 하늘 구름 위에' +
-                '독수리 높이 날고' +
-                '카우보이 세상을 삼키려 하고' +
-                '총성은 이어지네' +
+            우린 노래해 더 나아질 거야, 
+            우린 추억해 부질없이 지난날들, 
+            바보같이 지난날들
 
-                'TV 속에 싸워 이긴 전사' +
-                '일기 쓰고 있는 나의 천사' +
-                '도화지에 그려질 모습' +
-                '그녀가 그려갈 세상' +
+            그래도 우린 좋지 아니한가 
+            바람에 흐를 세월 속에
+            우리 같이 있지 않나 
+            이렇게 우린 웃기지 않는가
+            울고 있었다면 다시 만날 수 없는 세상에
+            우린 태어났으니깐
 
-                '우린 노래해 더 나아질 거야' +
-                '우린 추억해 부질없이 지난날들' +
-                '바보같이 지난날들' +
-                '그래도 우린 좋지 아니한가' +
-                '강물에 넘칠 눈물 속에' +
-                '우리 같이 있지 않나' +
-                '이렇게 우린 웃기지 않는가' +
-                '울고 있었다면 다시 만날 수 없는' +
-                '세상이 멋지지 않았는가' +
+            우린 노래해 더 나아질 거야, 
+            우린 추억해 부질없이 지난날들, 
+            바보같이 지난날들
 
-                '우린 노래해 더 나아질 거야' +
-                '우린 추억해 부질없이 지난날들' +
-                '바보같이 지난날들' +
+            그래도 너는 좋지 아니한가
+            강물에 넘칠 눈물 속에 
+            우리 같이 있지 않나
 
-                '그래도 너는 좋지 아니한가' +
-                '바람에 흐를 세월 속에' +
-                '우리 같이 있지 않나' +
-                '이렇게 우린 웃기지 않는가' +
-                '울고 있었다면 다시 만날 수 없는' +
-                '세상에 우린 태어났으니까' +
-                '좋지 아니한가' +
-                '바람에 흐를 세월 속에' +
-                '우리 같이 있지 않나' +
-                '이렇게 우린 웃기지 않는가' +
-                '울고 있었다면 다시 만날 수 없는' +
-                '세상에 우린 어디 있겠는가&ensp;'
-        }
-}
+            이렇게 우린 웃기지 않는가
+            울고 있었다면
+            다시 만날 수 없는 세상이 멋지지 않았는가
+            아아아, 그녀가 그려 갈 세상`,
+  },
+};
