@@ -22,6 +22,7 @@
     padding: 0px;
     color: white;
     font-size: 62.5%;
+    -webkit-text-size-adjust: 100%;
 }
 
 body {
@@ -69,7 +70,6 @@ body {
     justify-content: center;
     font-size: medium;
     margin-bottom: 1.5rem;
-    text-decoration: line-through;
 }
 
 .main > .middle > .location {
@@ -98,6 +98,18 @@ body {
     box-shadow: 0.1px 0.1px;
     font-size: 1.2rem;
     letter-spacing: 2px;
+}
+
+.main > .blocks > .totimetable{
+    border-radius: 10px;
+    background: #ed6ea0;
+    box-shadow: 0 4px 15px 0 rgba(236, 116, 149, 0.75);
+}
+
+.main > .blocks > .info {
+    border-radius: 10px;
+    background: #26d666;
+    box-shadow: 0 4px 15px 0 rgba(61, 238, 191, 0.75);
 }
 
 /* ---  여기까지    main css  ----*/
@@ -211,6 +223,7 @@ body {
     margin: 2rem;
     margin-bottom: 0.5rem;
     font-size: 1rem;
+    align-items: center;
 }
 /* .song:nth-child(3) {
     margin: 2rem;

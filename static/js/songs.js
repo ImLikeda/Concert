@@ -3,7 +3,7 @@ var teams = {
     {
       name: "Far Away",
       singer: "Lacuna",
-      info: "개쩌는 곡",
+      info: "지금 당장의 막막함에 슬퍼하지마세요. 오늘 하루도 잘 버틴 당신께 이 곡을 바칩니다.",
       image:
         "https://drive.google.com/uc?export=view&amp;id=1XQdKS2abqHHSo9De_0nzZgQUAz1MFlx2",
       nameId: "faraway",
@@ -19,7 +19,7 @@ var teams = {
     {
       name: "Tik Tak Tok",
       singer: "SilCagel",
-      info: "개쩌는 곡ddddd",
+      info: "요즘 가장 핫한 인디밴드 실리카겔!! 따끈따끈한 신곡을 옴니버스만의 편곡을 거쳐 여러분께 들려드립니다.",
       image:
         "https://drive.google.com/uc?export=view&id=10-JEpDJ1YvvI1aABqaK4NcL0isr7C9ef",
       nameId: "tiktaktok",
@@ -29,7 +29,7 @@ var teams = {
     {
       name: "ALIVE",
       singer: "TOUCHED",
-      info: "개쩌는 곡ddddd",
+      info: "우리가 함께 음악을 하며 느꼈던 순간의 느낌들, 그 때의 뜨거웠던 밴드만의 심장박동과 생동감을 음악으로 표현하고자 했습니다.",
       image:
         "https://drive.google.com/uc?export=view&id=17a0ASWX3tlYANusDfhgXn8HX9QhodB61",
       nameId: "alive",
@@ -37,7 +37,7 @@ var teams = {
     {
       name: "HI BULLY",
       singer: "TOUCHED",
-      info: "개쩌는 곡",
+      info: "'Bully를 마주치면 어떡하지? 무얼 할 수 있을까? 상상만 해도 떨리지만 이제 더는 도망치지 않고 당당히 'Bully'를 마주하겠다는 다짐을 한 곡입니다'",
       image:
         "https://drive.google.com/uc?export=view&id=19qZo_ri0yaBAAk9OSXPDX2dXLTnCwwc5",
       nameId: "hibully",
@@ -45,7 +45,7 @@ var teams = {
     {
       name: "좋지 아니한가",
       singer: "유다빈 밴드",
-      info: "개쩌는 ddddddd 곡",
+      info: "지치고 힘든 지금의 당신들에게도 ‘그래도 세상은 즐겁다’라는  메시지를 전해주고 싶습니다",
       image:
         "https://drive.google.com/uc?export=view&id=1JZeXIXJscIWAACYumm8tGqLteZrklkOj",
       nameId: "anyway",

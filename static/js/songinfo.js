@@ -86,7 +86,7 @@ var songInfo = {
     singer: "SiliCagel",
     image:
       "https://drive.google.com/uc?export=view&id=10-JEpDJ1YvvI1aABqaK4NcL0isr7C9ef",
-    info: "개쩌는 곡 @@@@@@",
+    info: "요즘 가장 핫한 인디밴드 실리카겔!! 따끈따끈한 신곡을 옴니버스만의 편곡을 거쳐 여러분께 들려드립니다.",
     nameId: "tiktaktok",
     members: [
       {
@@ -518,7 +518,7 @@ var songInfo = {
     singer: "Touched",
     image:
       "https://drive.google.com/uc?export=view&id=17a0ASWX3tlYANusDfhgXn8HX9QhodB61",
-    info: "@@@@@@개쩌는 곡123",
+    info: "우리가 함께 음악을 하며 느꼈던 순간의 느낀 그 때의 밴드만의 뜨거웠던 심장박동과 생동감을 음악으로 표현하고자 했습니다.",
     nameId: "alive",
     members: [
       {
@@ -559,7 +559,7 @@ var songInfo = {
     singer: "Touched",
     image:
       "https://drive.google.com/uc?export=view&id=19qZo_ri0yaBAAk9OSXPDX2dXLTnCwwc5",
-    info: "@@@@@@개쩌는 곡",
+    info: "'Bully를 마주치면 어떡하지? 무얼 할 수 있을까? 상상만 해도 떨리지만 이제 더는 도망치지 않고 당당히 'Bully'를 마주하겠다는 다짐을 한 곡입니다'",
     nameId: "hibully",
     members: [
       {
@@ -605,7 +605,7 @@ var songInfo = {
     singer: "유다빈 밴드",
     image:
       "https://drive.google.com/uc?export=view&id=1JZeXIXJscIWAACYumm8tGqLteZrklkOj",
-    info: "@@@@@@개쩌는 곡321",
+    info: "지치고 힘든 지금의 당신들에게도 ‘그래도 세상은 즐겁다’라는  메시지를 전해주고 싶습니다",
     nameId: "anyway",
     members: [
       {

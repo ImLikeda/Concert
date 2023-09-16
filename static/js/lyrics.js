@@ -2,7 +2,7 @@ var lyrics = {
   faraway: {
     name: "Far Away",
     singer: "Lacuna",
-    info: "신나버려",
+    info: "지금 당장의 막막함에 슬퍼하지마세요. 오늘 하루도 잘 버틴 당신께 이 곡을 바칩니다.",
     image:
       "https://drive.google.com/uc?export=view&id=1XQdKS2abqHHSo9De_0nzZgQUAz1MFlx2",
     lyric: `창 밖은 흑백으로 덮혀 있어
@@ -40,7 +40,7 @@ var lyrics = {
   everyday: {
     name: "어느샌가 우리는 매일을 살아왔네",
     singer: "The Polse",
-    info: "아주조아",
+    info: "우리는 가끔 행복하고 순수했던 어린 시절의 향수와 추억에 잠기곤 합니다. 이 노래를 듣는 지금, 우리 다 같이 그 시절로 돌아가보는 건 어떨까요?",
     image:
       "https://drive.google.com/uc?export=view&id=1ou6wDzaeXONWXhaLGHNuN3eilpa4S89P",
     lyric: `
@@ -72,7 +72,7 @@ var lyrics = {
   tiktaktok: {
     name: "Tik Tak Tok",
     singer: "Silicagel",
-    info: "아주조아",
+    info: "요즘 가장 핫한 인디밴드 실리카겔!! 따끈따끈한 신곡을 옴니버스만의 편곡을 거쳐 여러분께 들려드립니다.",
     image:
       "https://drive.google.com/uc?export=view&id=10-JEpDJ1YvvI1aABqaK4NcL0isr7C9ef",
     lyric: `
@@ -106,7 +106,7 @@ var lyrics = {
   alive: {
     name: "Alive",
     singer: "유다빈 밴드",
-    info: "아주조아",
+    info: "우리가 함께 음악을 하며 느꼈던 순간의 느낌들, 그 때의 뜨거웠던 밴드만의 심장박동과 생동감을 음악으로 표현하고자 했습니다.",
     image:
       "https://drive.google.com/uc?export=view&id=17a0ASWX3tlYANusDfhgXn8HX9QhodB61",
     lyric: `아득하게 펼쳐진 이 밤에
@@ -165,7 +165,7 @@ var lyrics = {
   hibully: {
     name: "Hi Bully",
     singer: "터치드",
-    info: "아주조아",
+    info: "Bully를 마주치면 어떡하지? 무얼 할 수 있을까? 상상만 해도 떨리지만 이제 더는 도망치지 않고 당당히 'Bully'를 마주하겠다는 다짐을 한 곡입니다",
     image:
       "https://drive.google.com/uc?export=view&id=19qZo_ri0yaBAAk9OSXPDX2dXLTnCwwc5",
     lyric: `안녕 날 괴롭히던 너
@@ -178,14 +178,14 @@ var lyrics = {
         사라져 무너져
         아직도 나를 짓누르고 있는 너
 
-        Hi Bully, my name is Jerck
+        Hi Bully, my name is Jerk
         너를 피해 눈을 피해 도망을 가
-        Hi Bully, my name is Jerck
+        Hi Bully, my name is Jerk
         얼굴만 때리지 말아 줘
         
-        Hi Bully, my name is Jerck
+        Hi Bully, my name is Jerk
         너를 피해 눈을 피해 도망을 가
-        Hi Bully, my name is Jerck
+        Hi Bully, my name is Jerk
         얼굴만 때리지 말아 줘
         
         어두운 골목길 안 가
@@ -198,14 +198,14 @@ var lyrics = {
         눈 감아도 꿈에서 계속해서
         날 짓누르고 있는 너
         
-        Hi Bully, my name is Jerck
+        Hi Bully, my name is Jerk
         너를 피해 눈을 피해 도망을 가
-        Hi Bully, my name is Jerck
+        Hi Bully, my name is Jerk
         얼굴만 때리지 말아 줘
         
-        Hi Bully, my name is Jerck
+        Hi Bully, my name is Jerk
         너를 피해 눈을 피해 도망을 가
-        Hi Bully, my name is Jerck
+        Hi Bully, my name is Jerk
         얼굴만 때리지 말아 줘
         
         가벼운 너의 바람이
@@ -216,27 +216,27 @@ var lyrics = {
         나에겐 시린 아픔이야
         가벼운 너의 바람이 나에겐 너무도
         
-        Hi Bully, my name is Jerck
+        Hi Bully, my name is Jerk
         너를 피해 눈을 피해 도망가던 나
-        Hi Bully, my name is Jerck
+        Hi Bully, my name is Jerk
         이제 고갤 들어 널 바라본다
 
-        Hi Bully, my name is Jerck
+        Hi Bully, my name is Jerk
         너를 피해 눈을 피해 도망가던 나
-        Hi Bully, my name is Jerck
+        Hi Bully, my name is Jerk
         이제 고갤 들어 널 바라본다
 
         Hi Bully
         Hi, hi Bully
         
-        Hi Bully, my name is Jerck
+        Hi Bully, my name is Jerk
         이제 고갤 들어 널 바라본다
         `,
   },
   anyway: {
     name: "좋지 아니한가",
     singer: "유다빈 밴드",
-    info: "신나버려",
+    info: "지치고 힘든 지금의 당신들에게도 ‘그래도 세상은 즐겁다’라는  메시지를 전해주고 싶습니다",
     image:
       "https://drive.google.com/uc?export=view&id=1JZeXIXJscIWAACYumm8tGqLteZrklkOj",
     lyric: `나무가 사라져간 
