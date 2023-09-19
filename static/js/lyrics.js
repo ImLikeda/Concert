@@ -106,7 +106,7 @@ var lyrics = {
   alive: {
     name: "Alive",
     singer: "유다빈 밴드",
-    info: "우리가 함께 음악을 하며 느꼈던 순간의 느낌들, 그 때의 뜨거웠던 밴드만의 심장박동과 생동감을 음악으로 표현하고자 했습니다.",
+    info: "조명, 멜로디, 열기, 청춘 우리는 누구보다도 뜨겁게 살아있음을.",
     image:
       "https://drive.google.com/uc?export=view&id=17a0ASWX3tlYANusDfhgXn8HX9QhodB61",
     lyric: `아득하게 펼쳐진 이 밤에
@@ -165,7 +165,7 @@ var lyrics = {
   hibully: {
     name: "Hi Bully",
     singer: "터치드",
-    info: "Bully를 마주치면 어떡하지? 무얼 할 수 있을까? 상상만 해도 떨리지만 이제 더는 도망치지 않고 당당히 'Bully'를 마주하겠다는 다짐을 한 곡입니다",
+    info: "두려워도 맞서 싸우리라. 시간을 따라 우리는 단단해지기에.",
     image:
       "https://drive.google.com/uc?export=view&id=19qZo_ri0yaBAAk9OSXPDX2dXLTnCwwc5",
     lyric: `안녕 날 괴롭히던 너
@@ -236,7 +236,7 @@ var lyrics = {
   anyway: {
     name: "좋지 아니한가",
     singer: "유다빈 밴드",
-    info: "지치고 힘든 지금의 당신들에게도 ‘그래도 세상은 즐겁다’라는  메시지를 전해주고 싶습니다",
+    info: "지치고 힘들었던 오늘, 함께 살아있는 이 순간 또한 좋지 아니한가!",
     image:
       "https://drive.google.com/uc?export=view&id=1JZeXIXJscIWAACYumm8tGqLteZrklkOj",
     lyric: `나무가 사라져간 
