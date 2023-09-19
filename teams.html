@@ -52,10 +52,21 @@
     var songBox = document.getElementById("songListDiv");
     songBox.innerHTML = songList;
 
+    var songst = document.getElementsByClassName('song');
+
     if (teamName === 'omniA' || teamName === 'omniB') {
-      document.getElementsByClassName('song').style.borderColor = '#00FD46';
-    } else if (teamName === 'collaboA' || teamName === 'collaboB'){
-      document.getElementsByClassName('song').style.borderColor = '#EF6F';
+      for (i = 0; i < songst.length; i++) {
+      songst[i].style.border = "0.2rem solid #00FD46";
+      }
+    } 
+    else if (teamName === 'collaboA' || teamName === 'collaboB'){
+      for (i = 0; i < songst.length; i++) {
+        songst[i].style.border = '0.2rem solid #7EADE9';
+      } 
+    }else {
+      for (i = 0; i < songst.length; i++) {
+        songst[i].style.border = '0.2rem solid #DC00FD';
+      }
     }
   </script>
 </html>
