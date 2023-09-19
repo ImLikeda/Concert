@@ -268,13 +268,14 @@ body {
   align-items: center;
   height: 5rem;
   width: 15rem;
+  width: 85%;
 }
 
 .members {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  width: 85%;
+  width: 90%;
 }
 
 .members > .member {
@@ -283,6 +284,7 @@ body {
   border: 0.2rem solid white;
   align-items: center;
   margin: 0.75rem;
+  padding: 6px 3px;
 }
 
 .members > .member > .th {
@@ -312,7 +314,7 @@ body {
 .LyricBox {
   display: flex;
   margin: 2rem;
-  width: 80%;
+  width: 85%;
   border: 0.2rem solid white;
   height: 50vh;
 }
