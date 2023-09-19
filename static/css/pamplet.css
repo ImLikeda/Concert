@@ -148,13 +148,12 @@ body {
 .main > .TimeLine > .TL > div {
     padding: 1rem;
     text-align: left;
-    padding-left: 6rem;
-    padding-top: 1.7rem;
+    padding-left: 5rem;
 }
 
 .main > .TimeLine > .TL:nth-child(even) > div {
     text-align: right;
-    padding-right: 6rem;
+    padding-right: 5rem;
 }
 
 .main > .TimeLine > div > .time, .team {
